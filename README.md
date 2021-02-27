@@ -1,6 +1,10 @@
 ## 
 
 
+### 2021-02-27
+- [x] [简述 JVM 的内存模型 JVM 内存是如何对应到操作系统内存的？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-02-27/JVM.md)
+
+
 ### 2021-02-26
 - [x] [Java 中垃圾回收机制中如何判断对象需要回收？常见的 GC 回收算法有哪些？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2020-02-26/JVM.md)
 
