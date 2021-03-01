@@ -13,3 +13,24 @@ String类是被final关键字修饰了，所以无法被继承。
 
 读 final 域的重排序规则：
 编译器要求在 读final域 之前，插入一个LoadLoad屏障，确保屏障前的读操作在屏障后的读操作之前。
+
+### 我们想写个MyString复用所有String中方法，同时增加一个新的toMyString()的方法，应该如何做?
+因为String类是final，所以我们无法继承重写，但是可以使用组合的方式来实现，
+```
+    class MyString{
+    
+        private String innerString;
+    
+        // ...init & other methods
+    
+        // 支持老的方法
+        public int length(){
+            return innerString.length(); // 通过innerString调用老的方法
+        }
+    
+        // 添加新方法
+        public String toMyString(){
+            //...
+        }
+    }
+```
