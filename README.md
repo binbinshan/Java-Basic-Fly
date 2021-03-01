@@ -1,5 +1,9 @@
 ## 
 
+
+### 2021-03-01
+- [x] [String 类能不能被继承？为什么？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-03-01/String.md)
+
 ### 2021-02-28
 - [x] [说说 List,Set,Map 三者的区别及如何选用？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-02-28/Collection.md)
 - [x] [集合类中的 List 和 Map 的线程安全版本是什么，如何保证线程安全的？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-02-28/list%26map.md)
