@@ -1,7 +1,7 @@
 ## 
 
 ### 2021-03-03
-- [x] [ThreadLocal 实现原理是什么？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-03-03/ThreadLocals.md)
+- [x] [ThreadLocal 实现原理是什么？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-03-03/ThreadLocal.md)
 
 
 
