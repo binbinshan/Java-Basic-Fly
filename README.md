@@ -1,5 +1,9 @@
 ## 
 
+### 2021-03-11
+- [x] [简述动态代理与静态代理？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-03-11/proxy.md)
+
+
 ### 2021-03-10
 - [x] [什么是内存泄漏，怎么确定内存泄漏？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-03-10/内存泄漏.md)
 
