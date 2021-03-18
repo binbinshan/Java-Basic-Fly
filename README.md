@@ -1,6 +1,11 @@
 ## 
 
 
+### 2021-03-18
+- [x] [mysql中的锁 ](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-03-18/MySQL.md)
+
+
+
 ### 2021-03-17
 - [x] [mysql中的事务 ](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-03-17/MySQL.md)
 
