@@ -1,5 +1,9 @@
 ## 
 
+### 2021-03-19
+- [x] [mysql索引调优](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-03-19/MySQL.md)
+
+
 
 ### 2021-03-18
 - [x] [mysql中的锁 ](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-03-18/MySQL.md)
