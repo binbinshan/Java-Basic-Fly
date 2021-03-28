@@ -1,6 +1,13 @@
 
+### 2021-03-28
+- [x] [常用的Linux命令及功能](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-03-28/Linux命令.md)
 
-### 2021-03-25
+
+### 2021-03-27
+- [x] [JAVA线程的六种状态及状态切换方式](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-03-27/线程.md)
+
+
+### 2021-03-26
 - [x] [进程间通信方式有哪些？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-03-26/进程通信方式.md)
 
 
