@@ -1,4 +1,9 @@
 
+### 2021-03-29
+- [x] [进程有多少种状态？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-03-29/进程状态.md)
+
+
+
 ### 2021-03-28
 - [x] [常用的Linux命令及功能](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-03-28/Linux命令.md)
 
