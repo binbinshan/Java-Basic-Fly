@@ -1,3 +1,5 @@
+### 2021-03-30
+- [x] [select 与 epoll 的使用场景以及区别，epoll 中水平触发以及边缘触发有什么不同？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-03-30/epoll.md)
 
 ### 2021-03-29
 - [x] [进程有多少种状态？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-03-29/进程状态.md)
