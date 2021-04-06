@@ -1,5 +1,9 @@
 
 
+### 2021-04-06
+- [x] [简述 HTTP 1.0，1.1，2.0 的主要区别](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-04-06/http.md)
+
+
 ### 2021-04-05
 - [x] [TCP 中常见的拥塞控制算法有哪些？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-04-05/tcp拥堵算法.md)
 
