@@ -1,5 +1,10 @@
 
 
+### 2021-04-07
+- [x] [HTTP 中 GET 和 POST 区别](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-04-07/post&get.md)
+
+
+
 ### 2021-04-06
 - [x] [简述 HTTP 1.0，1.1，2.0 的主要区别](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-04-06/http.md)
 
