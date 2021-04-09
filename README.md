@@ -1,4 +1,8 @@
 
+### 2021-04-09
+- [x] [redis 的过期策略都有哪些？内存淘汰机制都有哪些？手写一下 LRU 代码实现？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-04-09/redis.md)
+
+
 ### 2021-04-08
 - [x] [简述常见的 HTTP 状态码的含义](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-04-08/http.md)
 
