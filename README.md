@@ -1,5 +1,9 @@
 
 ### 2021-04-09
+- [x] [redis 的并发竞争问题是什么？如何解决这个问题？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-04-11/redis.md)
+
+
+### 2021-04-09
 - [x] [redis 的过期策略都有哪些？内存淘汰机制都有哪些？手写一下 LRU 代码实现？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-04-09/redis.md)
 
 
