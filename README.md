@@ -1,5 +1,16 @@
 
-### 2021-04-09
+
+
+
+
+
+
+
+### 2021-04-12
+- [x] [Redis集群了解吗？简单说一下](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-04-12/redis.md)
+
+
+### 2021-04-11
 - [x] [redis 的并发竞争问题是什么？如何解决这个问题？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-04-11/redis.md)
 
 
