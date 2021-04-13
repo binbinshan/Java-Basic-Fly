@@ -4,6 +4,11 @@
 
 
 
+### 2021-04-13
+- [x] [如何保证缓存数据库双写一致？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-04-13/redis.md)
+
+
+
 
 
 ### 2021-04-12
