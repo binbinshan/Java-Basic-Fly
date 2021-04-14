@@ -3,12 +3,12 @@
 
 
 
+### 2021-04-14
+- [x] [老生常谈的缓存雪崩、击穿、穿透](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-04-14/redis.md)
+
 
 ### 2021-04-13
 - [x] [如何保证缓存数据库双写一致？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-04-13/redis.md)
-
-
-
 
 
 ### 2021-04-12
