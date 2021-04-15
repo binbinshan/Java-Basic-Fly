@@ -1,6 +1,9 @@
 
 
 
+### 2021-04-15
+- [x] [Redis高并发、高可用怎么做的？主从复制原理能说下吗？redis的哨兵了解吗？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-04-15/redis.md)
+
 
 
 ### 2021-04-14
