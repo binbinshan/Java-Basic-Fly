@@ -1,5 +1,9 @@
 
 
+### 2021-04-17
+- [x] [mysql主从复制，读写分离你了解吗？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-04-17/mysql.md)
+
+
 ### 2021-04-16
 - [x] [为什么要分库分表？你们是怎么进行分库分表的呢？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-04-16/split.md)
 
