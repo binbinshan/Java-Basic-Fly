@@ -1,5 +1,10 @@
 
 
+
+### 2021-04-18
+- [x] [现在有一个单表数据的系统，让你进行分库分表，你怎么做？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-04-18/分库分表.md)
+
+
 ### 2021-04-17
 - [x] [mysql主从复制，读写分离你了解吗？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-04-17/mysql.md)
 
