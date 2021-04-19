@@ -1,8 +1,9 @@
 
-
+### 2021-04-18
+- [x] [Redis 如何实现分布式锁？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-04-19/redis.md)
 
 ### 2021-04-18
-- [x] [现在有一个单表数据的系统，让你进行分库分表，你怎么做？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-04-18/分库分表.md)
+- [x] [现在有一个单表数据的系统，让你进行分库分表，你怎么做？（需要修改）](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-04-18/分库分表.md)
 
 
 ### 2021-04-17
