@@ -1,8 +1,15 @@
-### 2021-04-18
+
+
+
+### 2021-04-21
+- [x] [Java 是如何实现线程安全的，哪些数据结构是线程安全的？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-04-21/java.md)
+
+
+### 2021-04-20
 - [x] [JVM 中内存模型是怎样的，简述新生代与老年代的区别？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-04-20/jvm.md)
 
 
-### 2021-04-18
+### 2021-04-19
 - [x] [Redis 如何实现分布式锁？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-04-19/redis.md)
 
 ### 2021-04-18
