@@ -1,5 +1,10 @@
 
 
+### 2021-04-24
+- [x] [Java 中 sleep() 与 wait() 的区别？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-04-24/sleep&wait.md)
+
+
+
 ### 2021-04-23
 
 - [x] [Java 类的加载流程是怎样的？什么是双亲委派机制？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-04-23/jvm.md)
