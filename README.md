@@ -1,5 +1,9 @@
 
 
+
+### 2021-04-26
+- [x] [谈谈你对Java内存模型JMM的理解可以吗？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-04-26/JMM.md)
+
 ### 2021-04-25
 - [x] [Java 线程池里的 arrayblockingqueue 与 linkedblockingqueue 的使用场景和区别](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-04-25/20210425.md)
 
