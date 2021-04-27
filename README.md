@@ -1,6 +1,10 @@
 
 
 
+### 2021-04-27
+- [x] [Java 中接口和抽象类的区别？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-04-27/interface&abstract.md)
+
+
 ### 2021-04-26
 - [x] [谈谈你对Java内存模型JMM的理解可以吗？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-04-26/JMM.md)
 
