@@ -1,5 +1,8 @@
 
 
+### 2021-04-28
+- [x] [hashcode 和 equals 方法的联系？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-04-28/hashCode&equals.md)
+
 
 ### 2021-04-27
 - [x] [Java 中接口和抽象类的区别？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-04-27/interface&abstract.md)
