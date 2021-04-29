@@ -1,5 +1,12 @@
 
 
+
+### 2021-04-29
+- [x] [Java 线程间有多少通信方式？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-04-29/线程通信.md)
+- [x] [创建多线程的方法有哪些？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-04-29/创建线程.md)
+- [x] [Java 的线程有哪些状态，转换关系是怎么样的？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-04-29/线程状态.md)
+
+
 ### 2021-04-28
 - [x] [hashcode 和 equals 方法的联系？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-04-28/hashCode&equals.md)
 
