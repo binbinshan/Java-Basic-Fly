@@ -1,0 +1,7 @@
+## ThreadLocal 实现原理是什么？
+
+ThreadLocal为每个线程都提供了变量的副本，使得每个线程在某一时间访问到的并非同一个对象，这样就隔离了多个线程对数据的数据共享。
+
+实现原理：
+1. 每个线程都会有一个变量threadLocals,这个threadLocals就是通过ThreadLocal进行维护的ThreadLocalMap，
+2. 这个map是key-val结构的；Map里面的key为ThreadLocal的弱引用，value为需要共享的值。所以每个线程只能拿到根据自己创建的ThreadLocal去ThreadLocalMap中获取对象，到达了线程隔离的效果。

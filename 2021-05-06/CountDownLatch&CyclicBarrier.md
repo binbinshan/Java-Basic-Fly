@@ -1,0 +1,6 @@
+# CountDownLatch和CyclicBarrier的区别？
+
+1. CountDownLatch的计数器只能使用一次，而CyclicBarrier的计数器可以使用reset()方法重置
+
+2. CountDownLatch一般阻塞主线程，而CyclicBarrier一般阻塞工作线程
+3. CountDownLatch主要是用于一个线程或者多个线程等待其他线程完成，而CyclicBarrier主要是多个线程之间相互等待。
