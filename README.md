@@ -1,4 +1,8 @@
 
+### 2021-05-07
+- [x] [JVM如何判断是否为两个class为同一个类呢？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-05-07/class1.md)
+- [x] [Class.forName()和ClassLoader.loadClass()区别?](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-05-07/class2.md)
+
 ### 2021-05-06
 - [x] [synchronized 关键字底层是如何实现的？它与Lock 相比优缺点分别是什么？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-05-06/synchronized1.md)
 - [x] [简述 Synchronized，Volatile，可重入锁的不同使用场景及优缺点？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-05-06/synchronized2.md)
