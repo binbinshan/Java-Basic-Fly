@@ -1,16 +1,20 @@
-### 思维导图总结
+## 思维导图总结
 
-- [Java并发](https://www.processon.com/view/6093d490e401fd1c331c6ad9?fromnew=1#map)
+ | [Java基础(todo)]()&nbsp; | 
+ [Java集合与IO(todo)]()&nbsp; | 
+ [Java并发](https://www.processon.com/view/6093d490e401fd1c331c6ad9?fromnew=1#map)&nbsp;  | 
+ [JVM(todo)]()&nbsp; | 
+ [MySQL数据库(todo)]()&nbsp; | 
+ [ElasticSearch(todo)]()&nbsp; | 
+ [Redis(todo)]()&nbsp; |</br> 
+ | [微服务(todo)]()&nbsp; | 
+ [消息中间件(todo)]()&nbsp; | 
+ [Mybatis(todo)]()&nbsp; | 
+ [Spring(todo)]()&nbsp; | 
+ [SpringBoot(todo)]()&nbsp; | 
+ [SpringCloud(todo)]()&nbsp; | 
 
-
-
-
-
-
-
-
-
-
+---------------------------
 
 
 ## 每日打卡
