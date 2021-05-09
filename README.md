@@ -21,6 +21,9 @@
 
 
 
+### 2021-05-09
+- [x] [如何优化 JVM 频繁 minor GC ？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-05-09/minorGC.md)
+
 ### 2021-05-07
 - [x] [JVM如何判断是否为两个class为同一个类呢？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-05-07/class1.md)
 - [x] [Class.forName()和ClassLoader.loadClass()区别?](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-05-07/class2.md)
