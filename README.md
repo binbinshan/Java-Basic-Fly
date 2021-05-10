@@ -37,17 +37,29 @@
 
 ### 2021-05-06
 - [x] [synchronized 关键字底层是如何实现的？它与Lock 相比优缺点分别是什么？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-05-06/synchronized1.md)
+
 - [x] [简述 Synchronized，Volatile，可重入锁的不同使用场景及优缺点？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-05-06/synchronized2.md)
+
 - [x] [Synchronized修饰的方法在抛出异常时,会释放锁吗?](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-05-06/synchronized3.md)
+
 - [x] [线程池中任务是如何提交和关闭的？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-05-06/线程池.md)
+
 - [x] [CAS 实现原理是什么？什么是 ABA 问题，怎么解决？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-05-06/cas.md)
+
 - [x] [简述 Java AQS 的原理以及使用场景](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-05-06/aqs.md)
+
 - [x] [ConcurrentHashMap如何实现线程安全的？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-05-06/ConcurrentHashMap2.md)
+
 - [x] [ReentrantLock是如何实现公平和非公平的锁？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-05-06/ReentrantLock1.md)
+
 - [x] [ReentrantLock和Synchronized的对比?](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-05-06/ReentrantLock2.md)
+
 - [x] [ReentrantReadWriteLock的实现原理?](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-05-06/ReentrantReadWriteLock.md)
+
 - [x] [CountDownLatch和CyclicBarrier的区别？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-05-06/CountDownLatch&CyclicBarrier.md)
+
 - [x] [ThreadLocal 实现原理是什么？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-05-06/ThreadLocal1.md)
+
 - [x] [ThreadLocal内存泄露是什么导致的？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-05-06/ThreadLocal2.md)
 
 
