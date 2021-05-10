@@ -19,6 +19,13 @@
 
 ## 每日打卡
 
+### 2021-05-10
+
+- [x] [如何确定eden区的对象何时进入老年代？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-05-10/eden.md)
+
+- [x] [ GC Root 对象有哪些？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-05-10/GCRoot.md)
+
+- [x] [ 常用垃圾收集器有哪些,你们线上用的什么收集器？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-05-10/GC.md)
 
 
 ### 2021-05-09
