@@ -21,11 +21,14 @@
 
 ### 2021-05-12
 
-- [x] [JVM 是怎么去调优的？简述过程和调优的结果](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-05-12/jvm.md)
+- [x] [每日百万交易的支付系统，如何设置堆内存？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-05-12/heap.md)
 
-- [x] [线上机器cpu负载过高如何去排查,如何去优化JVM参数？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-05-12/jvm1.md)
 
-- [x] [是否有遇到过线上OOM情况,如何去排查的？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-05-12/jvm2.md)
+暂缺 - [x] [JVM 是怎么去调优的？简述过程和调优的结果](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-05-12/jvm.md)
+
+暂缺 - [x] [线上机器cpu负载过高如何去排查,如何去优化JVM参数？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-05-12/jvm1.md)
+
+暂缺 - [x] [是否有遇到过线上OOM情况,如何去排查的？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-05-12/jvm2.md)
 
 
 ### 2021-05-11
