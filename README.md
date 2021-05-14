@@ -19,6 +19,11 @@
 
 ## 每日打卡
 
+### 2021-05-14
+
+- [x] [JVM的类加载机制](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-05-14/jvm.md)
+
+
 ### 2021-05-13
 
 - [x] [每日上亿请求量的电商系统，如何优化新生代和老年代？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-05-13/jvm.md)
