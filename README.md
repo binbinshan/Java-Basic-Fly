@@ -19,6 +19,11 @@
 
 ## 每日打卡
 
+### 2021-05-15
+
+- [x] [JVM中有哪些内存区域，分别都是用来干嘛的？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-05-15/jvm.md)
+
+
 ### 2021-05-14
 
 - [x] [JVM的类加载机制](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-05-14/jvm.md)
