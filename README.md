@@ -19,6 +19,11 @@
 
 ## 每日打卡
 
+### 2021-05-16
+
+- [x] [深入JVM堆内存](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-05-16/jvm.md)
+
+
 ### 2021-05-15
 
 - [x] [JVM中有哪些内存区域，分别都是用来干嘛的？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-05-15/jvm.md)
