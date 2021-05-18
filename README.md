@@ -19,6 +19,11 @@
 
 ## 每日打卡
 
+
+### 2021-05-18
+
+- [x] [深入垃圾回收器（二） - G1](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-05-18/jvm.md)
+
 ### 2021-05-17
 
 - [x] [深入垃圾回收器](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-05-17/jvm.md)
