@@ -19,6 +19,14 @@
 
 ## 每日打卡
 
+### 2021-05-19
+
+- [x] [OSI模型与TCP/IP模型](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-05-19/OSI_TCP_IP.md)
+
+- [x] [TCP是如何保证可靠性传输的？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-05-19/tcp.md)
+
+- [x] [TCP 为什么握手是 3 次、挥手是 4 次？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-05-19/tcp34.md)
+
 
 ### 2021-05-18
 
