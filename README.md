@@ -19,6 +19,14 @@
 
 ## 每日打卡
 
+### 2021-05-20
+
+- [x] [TCP中流量控制与拥塞控制是什么？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-05-20/tcp1.md)
+
+- [未完成] [TCP中常见的拥塞控制算法有哪些？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-05-20/tcp2.md)
+
+- [x] [简述TCP的滑动窗口及重传机制？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-05-20/tcp3.md)
+
 ### 2021-05-19
 
 - [x] [OSI模型与TCP/IP模型](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-05-19/OSI_TCP_IP.md)
