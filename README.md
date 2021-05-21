@@ -21,9 +21,14 @@
 
 ### 2021-05-20
 
-- [x] [TCP中流量控制与拥塞控制是什么？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-05-20/tcp1.md)
+- [x] [什么是三次握手？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-05-21/tcp3.md)
 
-- [未完成] [TCP中常见的拥塞控制算法有哪些？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-05-20/tcp2.md)
+- [x] [什么是四次挥手？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-05-21/tcp4.md)
+
+
+### 2021-05-20
+
+- [x] [TCP中流量控制与拥塞控制是什么？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-05-20/tcp1.md)
 
 - [x] [简述TCP的滑动窗口及重传机制？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-05-20/tcp3.md)
 
