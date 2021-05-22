@@ -19,7 +19,14 @@
 
 ## 每日打卡
 
-### 2021-05-20
+### 2021-05-22
+
+- [x] [TCP如何实现流量控制？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-05-22/流量控制.md)
+
+- [x] [TCP的拥塞控制是怎么实现的？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-05-22/拥塞控制.md)
+
+
+### 2021-05-21
 
 - [x] [什么是三次握手？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-05-21/tcp3.md)
 
