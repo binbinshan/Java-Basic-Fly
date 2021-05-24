@@ -19,6 +19,13 @@
 
 ## 每日打卡
 
+
+### 2021-05-24
+
+- [x] [HTTP和HTTPS](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-05-24/http.md)
+
+
+
 ### 2021-05-23
 
 - [x] [TCP与UDP的区别](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-05-23/tcp.md)
