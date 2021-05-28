@@ -20,6 +20,11 @@
 ## 每日打卡
 
 
+### 2021-05-27
+
+- [x] [HTTP请求有哪些常见状态码？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-05-28/http.md)
+
+
 ### 2021-05-26
 
 - [x] [Session与Cookie的区别？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-05-26/session.md)
