@@ -20,7 +20,12 @@
 ## 每日打卡
 
 
-### 2021-05-27
+### 2021-05-29
+
+- [x] [什么是RIP (Routing Information Protocol, 距离矢量路由协议)? 算法是什么？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-05-29/rip.md)
+
+
+### 2021-05-28
 
 - [x] [HTTP请求有哪些常见状态码？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-05-28/http.md)
 
