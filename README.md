@@ -19,7 +19,9 @@
 
 ## 每日打卡
 
+### 2021-05-31
 
+- [x] [一条update sql的执行？](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-05-31/sql.md)
 
 
 ### 2021-05-30
