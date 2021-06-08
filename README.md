@@ -19,6 +19,12 @@
 
 ## 每日打卡
 
+### 2021-06-07
+
+- [x] [MySQL物理数据模型2](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-06-08/sql.md)
+
+
+
 
 ### 2021-06-07
 
