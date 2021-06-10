@@ -19,6 +19,11 @@
 
 ## 每日打卡
 
+### 2021-06-10
+
+- [x] [MySQL的 Redo Log](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-06-10/sql.md)
+
+
 ### 2021-06-09
 
 - [x] [MySQL数据库和操作系统之间的交互](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-06-09/sql.md)
