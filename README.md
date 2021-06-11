@@ -19,6 +19,11 @@
 
 ## 每日打卡
 
+### 2021-06-11
+
+- [x] [MySQL的 Undo Log](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-06-11/sql.md)
+
+
 ### 2021-06-10
 
 - [x] [MySQL的 Redo Log](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-06-10/sql.md)
