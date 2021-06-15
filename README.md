@@ -19,6 +19,20 @@
 
 ## 每日打卡
 
+### 2021-06-17
+
+- [x] [MySQL中的explain](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-06-17/sql.md)
+
+### 2021-06-16
+
+- [x] [MySQL中的索引](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-06-16/sql.md)
+
+
+### 2021-06-15
+
+- [x] [MySQL中的锁](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-06-15/sql.md)
+
+
 ### 2021-06-13
 
 - [x] [MySQL中的隔离级别与实现](https://github.com/binbinshan/Java-Basic-Fly/blob/master/2021-06-13/sql.md)
